@@ -1,15 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fae35646-4bdd-476c-8dd6-7153c45e2304" name="Changes" comment="" />
+    <list default="true" id="fae35646-4bdd-476c-8dd6-7153c45e2304" name="Changes" comment="Primer commit crear mensaje ISO">
+      <change beforePath="$PROJECT_DIR$/Main/GenerateMS-ISO.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "darko-isaac",
+      "reviewState": "REQUIRED"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "darko-isaac",
+    "reviewState": "REQUIRED"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/darko-isaac/SimuladorTCP-IP-con-ISO.git",
+    "accountId": "0444022e-7cd7-46fe-b13b-d2dd84af9a91"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -21,10 +54,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.GenerateMS-ISO.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.venv" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1722194281626</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer commit crear mensaje ISO">
+      <option name="closed" value="true" />
+      <created>1722194564588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722194564588</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit crear mensaje ISO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer commit crear mensaje ISO" />
   </component>
 </project>
